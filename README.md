@@ -51,7 +51,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/yourusername/pacman-modified.git
+git clone https://github.com/AshFirst/Pacman_Game
 
 Navigate to the project folder:
 
